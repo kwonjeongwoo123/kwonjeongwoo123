@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+컴퓨터공학과 23학번 04년생 권정우라고 합니다!!
+
+파이썬, C, C++ 살짝 알고 있고, 앞선 언어들의 더 깊은 내용과 JAVA를 배우고 싶습니다!
+
+스팀 인디 게임 좋아합니다! 개발도 게임 쪽으로 한번 만들어보고 싶습니다!
+
 <!--
 **kwonjeongwoo123/kwonjeongwoo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
